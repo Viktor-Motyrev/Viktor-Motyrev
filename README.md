@@ -7,6 +7,7 @@
 **Языки программирования:** TypeScript, JavaScript, HTML5, CSS3  
 **Фреймворки:** Node.js, Vue.js  
 **Библиотеки:** React, Express.js 
+
 **Инструменты:** Git, GitHub, npm, Webpack, Vite  
 **Тестирование:** Jest, Cypress   
 **Стилизация:** CSS Grid, Flexbox, Адаптивный дизайн  
